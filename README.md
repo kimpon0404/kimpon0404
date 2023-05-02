@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 ・様々なプログラミング言語に見境なく触れています。     (I’m currently learning)<br>
       --今まで触れてきた言語たちとプラットフォーム--<br>
       cmd, powershell, linux<br>
-      python, C#
+      html(css javascript), python, C#
+      
+・最近は進歩しまくっているAIで遊ぶのが好き

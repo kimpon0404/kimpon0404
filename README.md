@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+・誕生日 2006/04/04
+
 ・日本人(Janpanese)
 
 ・学校 : 清風南海高等学校(seifunankai)

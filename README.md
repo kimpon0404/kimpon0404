@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 ・日本人(Janpanese)
 
-・学校 : 清風南海高等学校(seifunankai)
+・学校 : 清風南海高等学校(_seifunankai_)       (I’m currently working on)<br>
       高校二年生(second-year high-school student)
 
-・様々なプログラミング言語に見境なく触れています。
-      --今まで触れてきた言語たちとプラットフォーム--
-      cmd, powershell, linux
+・様々なプログラミング言語に見境なく触れています。     (I’m currently learning)<br>
+      --今まで触れてきた言語たちとプラットフォーム--<br>
+      cmd, powershell, linux<br>
       python, C#

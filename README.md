@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-・誕生日 2006/04/04
+・誕生日(Birth day) 2006/04/04
 
 ・日本人(Janpanese)
 
 ・学校 : 清風南海高等学校(seifunankai)
+      高校二年生(second-year high-school student)
 
 ・様々なプログラミング言語に見境なく触れています。
       --今まで触れてきた言語たちとプラットフォーム--

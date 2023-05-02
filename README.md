@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi this is kimpon0404 👋
 
 <!--
 **kimpon0404/kimpon0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+・日本人(Janpanese)
+・学校 : 清風南海高等学校

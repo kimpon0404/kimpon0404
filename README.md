@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 ・学校 : 清風南海高等学校(_seifunankai_)       (I’m currently working on)<br>
       高校二年生(second-year high-school student)
 
-・様々なプログラミング言語に見境なく触れています。     (I’m currently learning)<br>
-      --今まで触れてきた言語たちとプラットフォーム--<br>
+・様々なプログラミング言語(多分)に見境なく触れています。     (I’m currently learning)<br>
+      --今まで触れてきた言語たちとプラットフォームたち--<br>
       cmd, powershell, linux<br>
-      html(css javascript), python, C#
+      html(css javascript), python, C#<br>
+      php, sql
       
 ・最近は進歩しまくっているAIで遊ぶのが好き
 

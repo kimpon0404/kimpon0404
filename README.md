@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ・日本人(Janpanese)
-・学校 : 清風南海高等学校
+
+・学校 : 清風南海高等学校(seifunankai)
+
+・様々なプログラミング言語に見境なく触れています。
+      --今まで触れてきた言語たちとプラットフォーム--
+      cmd, powershell, linux
+      python, C#

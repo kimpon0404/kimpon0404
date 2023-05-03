@@ -26,7 +26,7 @@ Here are some ideas to get you started:
       --今まで触れてきた言語たちとプラットフォームたち--<br>
       cmd, powershell, linux<br>
       html(css javascript), python, C#<br>
-      php, sql
+      php, sql などなど
       
 ・最近は進歩しまくっているAIで遊ぶのが好き
 

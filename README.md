@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ・日本人(Janpanese)
 
-・学校 : 清風南海高等学校(_Seifū Nankai Junior and Senior High School_)       (I’m currently working on)<br>
+・学校 : 清風南海中学校・高等学校(_Seifū Nankai Junior and Senior High School_)       (I’m currently working on)<br>
       高校二年生(second-year high-school student)
 
 ・様々なプログラミング言語(多分)に見境なく触れています。     (I’m currently learning)<br>

@@ -30,4 +30,4 @@ Here are some ideas to get you started:
       
 ・最近は進歩しまくっているAIで遊ぶのが好き
 
-[アイコンの写真を撮ったところ(Location where icon photo was taken)](https://www.google.com/maps/@34.5174666,135.427195,3a,75y,116.64h,91.45t/data=!3m6!1e1!3m4!1sfgyb9IewU-pvjKnl6kEOrQ!2e0!7i16384!8i8192?authuser=0)
+<!-- [アイコンの写真を撮ったところ(Location where icon photo was taken)](https://www.google.com/maps/@34.5174666,135.427195,3a,75y,116.64h,91.45t/data=!3m6!1e1!3m4!1sfgyb9IewU-pvjKnl6kEOrQ!2e0!7i16384!8i8192?authuser=0) -->

@@ -1,4 +1,4 @@
-### Hi this is kimpon0404 👋
+## Hi this is kimpon0404 👋
 
 <!--
 **kimpon0404/kimpon0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,19 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-・誕生日(Birth day) 2006/04/04
+---
 
-・日本人(Janpanese)
+### 🎂 誕生日 | Birthday
+2006年4月4日
 
-・学校 : 清風南海中学校・高等学校(_Seifū Nankai Junior and Senior High School_)       (I’m currently working on)<br>
-      高校二年生(second-year high-school student)
+### 🌏 国籍 | Nationality
+日本人 | Japanese
 
-・様々なプログラミング言語(多分)に見境なく触れています。     (I’m currently learning)<br>
-      --今まで触れてきた言語たちとプラットフォームたち--<br>
-      cmd, powershell, linux<br>
-      html(css javascript), python, C#<br>
-      php, sql などなど
-      
-・最近は進歩しまくっているAIで遊ぶのが好き
+### 🏫 学歴 | Education
+高校二年生 | Second-Year High School Student
 
-<!-- [アイコンの写真を撮ったところ(Location where icon photo was taken)](https://www.google.com/maps/@34.5174666,135.427195,3a,75y,116.64h,91.45t/data=!3m6!1e1!3m4!1sfgyb9IewU-pvjKnl6kEOrQ!2e0!7i16384!8i8192?authuser=0) -->
+### 💻 プログラミング経験 | Programming Experience
+
+- **コマンドラインインターフェース**:
+  - CMD
+  - PowerShell
+  - Linux
+- **プログラミング言語**:
+  - HTML (CSS, JavaScript含む)
+  - Python
+  - C#
+  - PHP
+  - SQL
+
+### 🤖 趣味 | Hobbies
+最近の趣味は、急速に進化しているAI技術を使って遊ぶことです。
+
+---
